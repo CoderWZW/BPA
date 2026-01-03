@@ -1,0 +1,1796 @@
+{
+  "personas": [
+    {
+      "id": "S01",
+      "name": "Lin Feng",
+      "age": 15,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D1",
+      "dorm_index": 1,
+      "personality_traits": [
+        "cooperative",
+        "patient",
+        "rule-following"
+      ],
+      "interests": [
+        "anime",
+        "drawing",
+        "reading"
+      ],
+      "known_dorm_mates": [
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08"
+      ]
+    },
+    {
+      "id": "S02",
+      "name": "Zhao Xin",
+      "age": 14,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D1",
+      "dorm_index": 1,
+      "personality_traits": [
+        "talkative",
+        "lazy",
+        "supportive"
+      ],
+      "interests": [
+        "drawing",
+        "coding",
+        "soccer"
+      ],
+      "known_dorm_mates": [
+        "S01",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08"
+      ]
+    },
+    {
+      "id": "S03",
+      "name": "Wang Jing",
+      "age": 14,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D1",
+      "dorm_index": 1,
+      "personality_traits": [
+        "kind",
+        "independent",
+        "sarcastic"
+      ],
+      "interests": [
+        "drama club",
+        "coding",
+        "music"
+      ],
+      "known_dorm_mates": [
+        "S01",
+        "S02",
+        "S04",
+        "S05",
+        "S06",
+        "S07",
+        "S08"
+      ]
+    },
+    {
+      "id": "S04",
+      "name": "Guo Min",
+      "age": 14,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D1",
+      "dorm_index": 1,
+      "personality_traits": [
+        "argumentative",
+        "cautious",
+        "rule-following"
+      ],
+      "interests": [
+        "drama club",
+        "cooking",
+        "anime"
+      ],
+      "known_dorm_mates": [
+        "S01",
+        "S02",
+        "S03",
+        "S05",
+        "S06",
+        "S07",
+        "S08"
+      ]
+    },
+    {
+      "id": "S05",
+      "name": "Li Qiang",
+      "age": 15,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D1",
+      "dorm_index": 1,
+      "personality_traits": [
+        "patient",
+        "rebellious",
+        "gossipy"
+      ],
+      "interests": [
+        "anime",
+        "science club",
+        "basketball"
+      ],
+      "known_dorm_mates": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S06",
+        "S07",
+        "S08"
+      ]
+    },
+    {
+      "id": "S06",
+      "name": "Zhao Xin",
+      "age": 14,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D1",
+      "dorm_index": 1,
+      "personality_traits": [
+        "cooperative",
+        "aggressive",
+        "pragmatic"
+      ],
+      "interests": [
+        "soccer",
+        "drawing",
+        "coding"
+      ],
+      "known_dorm_mates": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S07",
+        "S08"
+      ]
+    },
+    {
+      "id": "S07",
+      "name": "Lin Feng",
+      "age": 15,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D1",
+      "dorm_index": 1,
+      "personality_traits": [
+        "aggressive",
+        "impulsive",
+        "pragmatic"
+      ],
+      "interests": [
+        "reading",
+        "video games",
+        "science club"
+      ],
+      "known_dorm_mates": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S08"
+      ]
+    },
+    {
+      "id": "S08",
+      "name": "Cai Jian",
+      "age": 14,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D1",
+      "dorm_index": 1,
+      "personality_traits": [
+        "diligent",
+        "rule-following",
+        "daydreaming"
+      ],
+      "interests": [
+        "running",
+        "chess",
+        "science club"
+      ],
+      "known_dorm_mates": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "S07"
+      ]
+    },
+    {
+      "id": "S09",
+      "name": "Sun Lei",
+      "age": 14,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D2",
+      "dorm_index": 2,
+      "personality_traits": [
+        "anxious",
+        "sarcastic",
+        "rebellious"
+      ],
+      "interests": [
+        "basketball",
+        "soccer",
+        "drama club"
+      ],
+      "known_dorm_mates": [
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S15",
+        "S16"
+      ]
+    },
+    {
+      "id": "S10",
+      "name": "Zhang Wei",
+      "age": 15,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D2",
+      "dorm_index": 2,
+      "personality_traits": [
+        "kind",
+        "rule-following",
+        "sarcastic"
+      ],
+      "interests": [
+        "soccer",
+        "science club",
+        "drawing"
+      ],
+      "known_dorm_mates": [
+        "S09",
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S15",
+        "S16"
+      ]
+    },
+    {
+      "id": "S11",
+      "name": "Lin Na",
+      "age": 14,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D2",
+      "dorm_index": 2,
+      "personality_traits": [
+        "curious",
+        "rule-following",
+        "impulsive"
+      ],
+      "interests": [
+        "anime",
+        "basketball",
+        "dance"
+      ],
+      "known_dorm_mates": [
+        "S09",
+        "S10",
+        "S12",
+        "S13",
+        "S14",
+        "S15",
+        "S16"
+      ]
+    },
+    {
+      "id": "S12",
+      "name": "Zhao Xin",
+      "age": 15,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D2",
+      "dorm_index": 2,
+      "personality_traits": [
+        "cooperative",
+        "patient",
+        "cautious"
+      ],
+      "interests": [
+        "drawing",
+        "soccer",
+        "dance"
+      ],
+      "known_dorm_mates": [
+        "S09",
+        "S10",
+        "S11",
+        "S13",
+        "S14",
+        "S15",
+        "S16"
+      ]
+    },
+    {
+      "id": "S13",
+      "name": "Wang Jun",
+      "age": 15,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D2",
+      "dorm_index": 2,
+      "personality_traits": [
+        "optimistic",
+        "sarcastic",
+        "pragmatic"
+      ],
+      "interests": [
+        "running",
+        "science club",
+        "anime"
+      ],
+      "known_dorm_mates": [
+        "S09",
+        "S10",
+        "S11",
+        "S12",
+        "S14",
+        "S15",
+        "S16"
+      ]
+    },
+    {
+      "id": "S14",
+      "name": "Cai Lin",
+      "age": 14,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D2",
+      "dorm_index": 2,
+      "personality_traits": [
+        "lazy",
+        "patient",
+        "quiet"
+      ],
+      "interests": [
+        "coding",
+        "dance",
+        "basketball"
+      ],
+      "known_dorm_mates": [
+        "S09",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S15",
+        "S16"
+      ]
+    },
+    {
+      "id": "S15",
+      "name": "Gao Han",
+      "age": 15,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D2",
+      "dorm_index": 2,
+      "personality_traits": [
+        "anxious",
+        "sarcastic",
+        "curious"
+      ],
+      "interests": [
+        "science club",
+        "anime",
+        "chess"
+      ],
+      "known_dorm_mates": [
+        "S09",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S16"
+      ]
+    },
+    {
+      "id": "S16",
+      "name": "Cai Lin",
+      "age": 14,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D2",
+      "dorm_index": 2,
+      "personality_traits": [
+        "reliable",
+        "cautious",
+        "pragmatic"
+      ],
+      "interests": [
+        "soccer",
+        "music",
+        "science club"
+      ],
+      "known_dorm_mates": [
+        "S09",
+        "S10",
+        "S11",
+        "S12",
+        "S13",
+        "S14",
+        "S15"
+      ]
+    },
+    {
+      "id": "S17",
+      "name": "Sun Yue",
+      "age": 14,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D3",
+      "dorm_index": 3,
+      "personality_traits": [
+        "kind",
+        "cautious",
+        "independent"
+      ],
+      "interests": [
+        "drama club",
+        "reading",
+        "soccer"
+      ],
+      "known_dorm_mates": [
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S22",
+        "S23",
+        "S24"
+      ]
+    },
+    {
+      "id": "S18",
+      "name": "Shi Xuan",
+      "age": 15,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D3",
+      "dorm_index": 3,
+      "personality_traits": [
+        "self-centered",
+        "irritable",
+        "competitive"
+      ],
+      "interests": [
+        "cooking",
+        "coding",
+        "chess"
+      ],
+      "known_dorm_mates": [
+        "S17",
+        "S19",
+        "S20",
+        "S21",
+        "S22",
+        "S23",
+        "S24"
+      ]
+    },
+    {
+      "id": "S19",
+      "name": "Lin Feng",
+      "age": 14,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D3",
+      "dorm_index": 3,
+      "personality_traits": [
+        "supportive",
+        "daydreaming",
+        "pragmatic"
+      ],
+      "interests": [
+        "video games",
+        "reading",
+        "science club"
+      ],
+      "known_dorm_mates": [
+        "S17",
+        "S18",
+        "S20",
+        "S21",
+        "S22",
+        "S23",
+        "S24"
+      ]
+    },
+    {
+      "id": "S20",
+      "name": "Chen Li",
+      "age": 14,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D3",
+      "dorm_index": 3,
+      "personality_traits": [
+        "argumentative",
+        "supportive",
+        "pragmatic"
+      ],
+      "interests": [
+        "drawing",
+        "basketball",
+        "anime"
+      ],
+      "known_dorm_mates": [
+        "S17",
+        "S18",
+        "S19",
+        "S21",
+        "S22",
+        "S23",
+        "S24"
+      ]
+    },
+    {
+      "id": "S21",
+      "name": "Ma Ting",
+      "age": 15,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D3",
+      "dorm_index": 3,
+      "personality_traits": [
+        "reliable",
+        "cautious",
+        "aggressive"
+      ],
+      "interests": [
+        "cooking",
+        "chess",
+        "reading"
+      ],
+      "known_dorm_mates": [
+        "S17",
+        "S18",
+        "S19",
+        "S20",
+        "S22",
+        "S23",
+        "S24"
+      ]
+    },
+    {
+      "id": "S22",
+      "name": "Zhao Ming",
+      "age": 15,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D3",
+      "dorm_index": 3,
+      "personality_traits": [
+        "rule-following",
+        "patient",
+        "lazy"
+      ],
+      "interests": [
+        "chess",
+        "science club",
+        "video games"
+      ],
+      "known_dorm_mates": [
+        "S17",
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S23",
+        "S24"
+      ]
+    },
+    {
+      "id": "S23",
+      "name": "Gao Han",
+      "age": 14,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D3",
+      "dorm_index": 3,
+      "personality_traits": [
+        "rebellious",
+        "optimistic",
+        "gossipy"
+      ],
+      "interests": [
+        "video games",
+        "basketball",
+        "drama club"
+      ],
+      "known_dorm_mates": [
+        "S17",
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S22",
+        "S24"
+      ]
+    },
+    {
+      "id": "S24",
+      "name": "Lin Feng",
+      "age": 15,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D3",
+      "dorm_index": 3,
+      "personality_traits": [
+        "aggressive",
+        "jealous",
+        "daydreaming"
+      ],
+      "interests": [
+        "music",
+        "coding",
+        "drama club"
+      ],
+      "known_dorm_mates": [
+        "S17",
+        "S18",
+        "S19",
+        "S20",
+        "S21",
+        "S22",
+        "S23"
+      ]
+    },
+    {
+      "id": "S25",
+      "name": "Zhao Xin",
+      "age": 14,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D4",
+      "dorm_index": 4,
+      "personality_traits": [
+        "self-centered",
+        "gossipy",
+        "rule-following"
+      ],
+      "interests": [
+        "basketball",
+        "coding",
+        "science club"
+      ],
+      "known_dorm_mates": [
+        "S26",
+        "S27",
+        "S28",
+        "S29",
+        "S30",
+        "S31",
+        "S32"
+      ]
+    },
+    {
+      "id": "S26",
+      "name": "Chen Hao",
+      "age": 15,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D4",
+      "dorm_index": 4,
+      "personality_traits": [
+        "diligent",
+        "rebellious",
+        "quiet"
+      ],
+      "interests": [
+        "coding",
+        "science club",
+        "drama club"
+      ],
+      "known_dorm_mates": [
+        "S25",
+        "S27",
+        "S28",
+        "S29",
+        "S30",
+        "S31",
+        "S32"
+      ]
+    },
+    {
+      "id": "S27",
+      "name": "Xu Ling",
+      "age": 14,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D4",
+      "dorm_index": 4,
+      "personality_traits": [
+        "stubborn",
+        "independent",
+        "rebellious"
+      ],
+      "interests": [
+        "running",
+        "video games",
+        "anime"
+      ],
+      "known_dorm_mates": [
+        "S25",
+        "S26",
+        "S28",
+        "S29",
+        "S30",
+        "S31",
+        "S32"
+      ]
+    },
+    {
+      "id": "S28",
+      "name": "Zheng Kai",
+      "age": 14,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D4",
+      "dorm_index": 4,
+      "personality_traits": [
+        "self-centered",
+        "cautious",
+        "quiet"
+      ],
+      "interests": [
+        "music",
+        "science club",
+        "running"
+      ],
+      "known_dorm_mates": [
+        "S25",
+        "S26",
+        "S27",
+        "S29",
+        "S30",
+        "S31",
+        "S32"
+      ]
+    },
+    {
+      "id": "S29",
+      "name": "Cai Jian",
+      "age": 14,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D4",
+      "dorm_index": 4,
+      "personality_traits": [
+        "curious",
+        "cautious",
+        "independent"
+      ],
+      "interests": [
+        "science club",
+        "soccer",
+        "cooking"
+      ],
+      "known_dorm_mates": [
+        "S25",
+        "S26",
+        "S27",
+        "S28",
+        "S30",
+        "S31",
+        "S32"
+      ]
+    },
+    {
+      "id": "S30",
+      "name": "Ma Ting",
+      "age": 15,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D4",
+      "dorm_index": 4,
+      "personality_traits": [
+        "stubborn",
+        "sarcastic",
+        "rebellious"
+      ],
+      "interests": [
+        "cooking",
+        "chess",
+        "coding"
+      ],
+      "known_dorm_mates": [
+        "S25",
+        "S26",
+        "S27",
+        "S28",
+        "S29",
+        "S31",
+        "S32"
+      ]
+    },
+    {
+      "id": "S31",
+      "name": "Liu Yang",
+      "age": 14,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D4",
+      "dorm_index": 4,
+      "personality_traits": [
+        "pragmatic",
+        "gossipy",
+        "patient"
+      ],
+      "interests": [
+        "running",
+        "reading",
+        "cooking"
+      ],
+      "known_dorm_mates": [
+        "S25",
+        "S26",
+        "S27",
+        "S28",
+        "S29",
+        "S30",
+        "S32"
+      ]
+    },
+    {
+      "id": "S32",
+      "name": "Zhou Xue",
+      "age": 14,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D4",
+      "dorm_index": 4,
+      "personality_traits": [
+        "patient",
+        "quiet",
+        "rebellious"
+      ],
+      "interests": [
+        "video games",
+        "dance",
+        "anime"
+      ],
+      "known_dorm_mates": [
+        "S25",
+        "S26",
+        "S27",
+        "S28",
+        "S29",
+        "S30",
+        "S31"
+      ]
+    },
+    {
+      "id": "S33",
+      "name": "Liu Fang",
+      "age": 15,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D5",
+      "dorm_index": 5,
+      "personality_traits": [
+        "diligent",
+        "gossipy",
+        "quiet"
+      ],
+      "interests": [
+        "cooking",
+        "running",
+        "coding"
+      ],
+      "known_dorm_mates": [
+        "S34",
+        "S35",
+        "S36",
+        "S37",
+        "S38",
+        "S39",
+        "S40"
+      ]
+    },
+    {
+      "id": "S34",
+      "name": "Zhou Xue",
+      "age": 15,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D5",
+      "dorm_index": 5,
+      "personality_traits": [
+        "lazy",
+        "sarcastic",
+        "rule-following"
+      ],
+      "interests": [
+        "reading",
+        "video games",
+        "soccer"
+      ],
+      "known_dorm_mates": [
+        "S33",
+        "S35",
+        "S36",
+        "S37",
+        "S38",
+        "S39",
+        "S40"
+      ]
+    },
+    {
+      "id": "S35",
+      "name": "Guo Min",
+      "age": 14,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D5",
+      "dorm_index": 5,
+      "personality_traits": [
+        "stubborn",
+        "jealous",
+        "talkative"
+      ],
+      "interests": [
+        "coding",
+        "anime",
+        "science club"
+      ],
+      "known_dorm_mates": [
+        "S33",
+        "S34",
+        "S36",
+        "S37",
+        "S38",
+        "S39",
+        "S40"
+      ]
+    },
+    {
+      "id": "S36",
+      "name": "Shi Jie",
+      "age": 14,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D5",
+      "dorm_index": 5,
+      "personality_traits": [
+        "aggressive",
+        "cautious",
+        "sarcastic"
+      ],
+      "interests": [
+        "basketball",
+        "soccer",
+        "science club"
+      ],
+      "known_dorm_mates": [
+        "S33",
+        "S34",
+        "S35",
+        "S37",
+        "S38",
+        "S39",
+        "S40"
+      ]
+    },
+    {
+      "id": "S37",
+      "name": "Liu Yang",
+      "age": 15,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D5",
+      "dorm_index": 5,
+      "personality_traits": [
+        "competitive",
+        "diligent",
+        "lazy"
+      ],
+      "interests": [
+        "coding",
+        "running",
+        "basketball"
+      ],
+      "known_dorm_mates": [
+        "S33",
+        "S34",
+        "S35",
+        "S36",
+        "S38",
+        "S39",
+        "S40"
+      ]
+    },
+    {
+      "id": "S38",
+      "name": "Zhao Ming",
+      "age": 14,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D5",
+      "dorm_index": 5,
+      "personality_traits": [
+        "diligent",
+        "daydreaming",
+        "sarcastic"
+      ],
+      "interests": [
+        "reading",
+        "dance",
+        "video games"
+      ],
+      "known_dorm_mates": [
+        "S33",
+        "S34",
+        "S35",
+        "S36",
+        "S37",
+        "S39",
+        "S40"
+      ]
+    },
+    {
+      "id": "S39",
+      "name": "Wang Jing",
+      "age": 14,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D5",
+      "dorm_index": 5,
+      "personality_traits": [
+        "stubborn",
+        "jealous",
+        "quiet"
+      ],
+      "interests": [
+        "anime",
+        "coding",
+        "reading"
+      ],
+      "known_dorm_mates": [
+        "S33",
+        "S34",
+        "S35",
+        "S36",
+        "S37",
+        "S38",
+        "S40"
+      ]
+    },
+    {
+      "id": "S40",
+      "name": "Zhou Peng",
+      "age": 14,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D5",
+      "dorm_index": 5,
+      "personality_traits": [
+        "cooperative",
+        "quiet",
+        "stubborn"
+      ],
+      "interests": [
+        "dance",
+        "video games",
+        "anime"
+      ],
+      "known_dorm_mates": [
+        "S33",
+        "S34",
+        "S35",
+        "S36",
+        "S37",
+        "S38",
+        "S39"
+      ]
+    },
+    {
+      "id": "S41",
+      "name": "Xu Bo",
+      "age": 14,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D6",
+      "dorm_index": 6,
+      "personality_traits": [
+        "supportive",
+        "rule-following",
+        "independent"
+      ],
+      "interests": [
+        "video games",
+        "science club",
+        "anime"
+      ],
+      "known_dorm_mates": [
+        "S42",
+        "S43",
+        "S44",
+        "S45",
+        "S46",
+        "S47",
+        "S48"
+      ]
+    },
+    {
+      "id": "S42",
+      "name": "Gao Han",
+      "age": 14,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D6",
+      "dorm_index": 6,
+      "personality_traits": [
+        "supportive",
+        "independent",
+        "pragmatic"
+      ],
+      "interests": [
+        "anime",
+        "drawing",
+        "basketball"
+      ],
+      "known_dorm_mates": [
+        "S41",
+        "S43",
+        "S44",
+        "S45",
+        "S46",
+        "S47",
+        "S48"
+      ]
+    },
+    {
+      "id": "S43",
+      "name": "Gao Qin",
+      "age": 14,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D6",
+      "dorm_index": 6,
+      "personality_traits": [
+        "cooperative",
+        "rebellious",
+        "pragmatic"
+      ],
+      "interests": [
+        "coding",
+        "soccer",
+        "drawing"
+      ],
+      "known_dorm_mates": [
+        "S41",
+        "S42",
+        "S44",
+        "S45",
+        "S46",
+        "S47",
+        "S48"
+      ]
+    },
+    {
+      "id": "S44",
+      "name": "Shi Xuan",
+      "age": 14,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D6",
+      "dorm_index": 6,
+      "personality_traits": [
+        "jealous",
+        "cautious",
+        "pragmatic"
+      ],
+      "interests": [
+        "video games",
+        "cooking",
+        "coding"
+      ],
+      "known_dorm_mates": [
+        "S41",
+        "S42",
+        "S43",
+        "S45",
+        "S46",
+        "S47",
+        "S48"
+      ]
+    },
+    {
+      "id": "S45",
+      "name": "Xu Ling",
+      "age": 14,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D6",
+      "dorm_index": 6,
+      "personality_traits": [
+        "cautious",
+        "kind",
+        "self-centered"
+      ],
+      "interests": [
+        "soccer",
+        "running",
+        "drawing"
+      ],
+      "known_dorm_mates": [
+        "S41",
+        "S42",
+        "S43",
+        "S44",
+        "S46",
+        "S47",
+        "S48"
+      ]
+    },
+    {
+      "id": "S46",
+      "name": "Shi Jie",
+      "age": 14,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D6",
+      "dorm_index": 6,
+      "personality_traits": [
+        "empathetic",
+        "pragmatic",
+        "quiet"
+      ],
+      "interests": [
+        "music",
+        "anime",
+        "running"
+      ],
+      "known_dorm_mates": [
+        "S41",
+        "S42",
+        "S43",
+        "S44",
+        "S45",
+        "S47",
+        "S48"
+      ]
+    },
+    {
+      "id": "S47",
+      "name": "Wu Mei",
+      "age": 15,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D6",
+      "dorm_index": 6,
+      "personality_traits": [
+        "rule-following",
+        "stubborn",
+        "confident"
+      ],
+      "interests": [
+        "music",
+        "cooking",
+        "dance"
+      ],
+      "known_dorm_mates": [
+        "S41",
+        "S42",
+        "S43",
+        "S44",
+        "S45",
+        "S46",
+        "S48"
+      ]
+    },
+    {
+      "id": "S48",
+      "name": "Xu Bo",
+      "age": 15,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D6",
+      "dorm_index": 6,
+      "personality_traits": [
+        "empathetic",
+        "talkative",
+        "irritable"
+      ],
+      "interests": [
+        "chess",
+        "anime",
+        "dance"
+      ],
+      "known_dorm_mates": [
+        "S41",
+        "S42",
+        "S43",
+        "S44",
+        "S45",
+        "S46",
+        "S47"
+      ]
+    },
+    {
+      "id": "S49",
+      "name": "Zhou Xue",
+      "age": 14,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D7",
+      "dorm_index": 7,
+      "personality_traits": [
+        "empathetic",
+        "competitive",
+        "rule-following"
+      ],
+      "interests": [
+        "music",
+        "video games",
+        "running"
+      ],
+      "known_dorm_mates": [
+        "S50",
+        "S51",
+        "S52",
+        "S53",
+        "S54",
+        "S55",
+        "S56"
+      ]
+    },
+    {
+      "id": "S50",
+      "name": "Lin Na",
+      "age": 15,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D7",
+      "dorm_index": 7,
+      "personality_traits": [
+        "supportive",
+        "patient",
+        "independent"
+      ],
+      "interests": [
+        "drama club",
+        "basketball",
+        "dance"
+      ],
+      "known_dorm_mates": [
+        "S49",
+        "S51",
+        "S52",
+        "S53",
+        "S54",
+        "S55",
+        "S56"
+      ]
+    },
+    {
+      "id": "S51",
+      "name": "Fang Ning",
+      "age": 14,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D7",
+      "dorm_index": 7,
+      "personality_traits": [
+        "aggressive",
+        "confident",
+        "quiet"
+      ],
+      "interests": [
+        "music",
+        "chess",
+        "reading"
+      ],
+      "known_dorm_mates": [
+        "S49",
+        "S50",
+        "S52",
+        "S53",
+        "S54",
+        "S55",
+        "S56"
+      ]
+    },
+    {
+      "id": "S52",
+      "name": "Zheng Kai",
+      "age": 14,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D7",
+      "dorm_index": 7,
+      "personality_traits": [
+        "self-centered",
+        "competitive",
+        "quiet"
+      ],
+      "interests": [
+        "science club",
+        "reading",
+        "soccer"
+      ],
+      "known_dorm_mates": [
+        "S49",
+        "S50",
+        "S51",
+        "S53",
+        "S54",
+        "S55",
+        "S56"
+      ]
+    },
+    {
+      "id": "S53",
+      "name": "Ma Rui",
+      "age": 14,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D7",
+      "dorm_index": 7,
+      "personality_traits": [
+        "gossipy",
+        "pragmatic",
+        "patient"
+      ],
+      "interests": [
+        "soccer",
+        "coding",
+        "basketball"
+      ],
+      "known_dorm_mates": [
+        "S49",
+        "S50",
+        "S51",
+        "S52",
+        "S54",
+        "S55",
+        "S56"
+      ]
+    },
+    {
+      "id": "S54",
+      "name": "Fang Yu",
+      "age": 15,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D7",
+      "dorm_index": 7,
+      "personality_traits": [
+        "self-centered",
+        "rule-following",
+        "kind"
+      ],
+      "interests": [
+        "chess",
+        "video games",
+        "drawing"
+      ],
+      "known_dorm_mates": [
+        "S49",
+        "S50",
+        "S51",
+        "S52",
+        "S53",
+        "S55",
+        "S56"
+      ]
+    },
+    {
+      "id": "S55",
+      "name": "Guo Min",
+      "age": 15,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D7",
+      "dorm_index": 7,
+      "personality_traits": [
+        "patient",
+        "sarcastic",
+        "talkative"
+      ],
+      "interests": [
+        "soccer",
+        "basketball",
+        "reading"
+      ],
+      "known_dorm_mates": [
+        "S49",
+        "S50",
+        "S51",
+        "S52",
+        "S53",
+        "S54",
+        "S56"
+      ]
+    },
+    {
+      "id": "S56",
+      "name": "Chen Hao",
+      "age": 14,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D7",
+      "dorm_index": 7,
+      "personality_traits": [
+        "optimistic",
+        "rule-following",
+        "aggressive"
+      ],
+      "interests": [
+        "music",
+        "video games",
+        "running"
+      ],
+      "known_dorm_mates": [
+        "S49",
+        "S50",
+        "S51",
+        "S52",
+        "S53",
+        "S54",
+        "S55"
+      ]
+    },
+    {
+      "id": "S57",
+      "name": "Ma Rui",
+      "age": 14,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D8",
+      "dorm_index": 8,
+      "personality_traits": [
+        "curious",
+        "quiet",
+        "pragmatic"
+      ],
+      "interests": [
+        "music",
+        "cooking",
+        "coding"
+      ],
+      "known_dorm_mates": [
+        "S58",
+        "S59",
+        "S60",
+        "S61",
+        "S62",
+        "S63",
+        "S64"
+      ]
+    },
+    {
+      "id": "S58",
+      "name": "Gao Qin",
+      "age": 15,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D8",
+      "dorm_index": 8,
+      "personality_traits": [
+        "aggressive",
+        "cautious",
+        "supportive"
+      ],
+      "interests": [
+        "anime",
+        "basketball",
+        "drama club"
+      ],
+      "known_dorm_mates": [
+        "S57",
+        "S59",
+        "S60",
+        "S61",
+        "S62",
+        "S63",
+        "S64"
+      ]
+    },
+    {
+      "id": "S59",
+      "name": "Liu Yang",
+      "age": 15,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D8",
+      "dorm_index": 8,
+      "personality_traits": [
+        "stubborn",
+        "rebellious",
+        "cooperative"
+      ],
+      "interests": [
+        "drama club",
+        "video games",
+        "running"
+      ],
+      "known_dorm_mates": [
+        "S57",
+        "S58",
+        "S60",
+        "S61",
+        "S62",
+        "S63",
+        "S64"
+      ]
+    },
+    {
+      "id": "S60",
+      "name": "Cai Lin",
+      "age": 14,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D8",
+      "dorm_index": 8,
+      "personality_traits": [
+        "gossipy",
+        "cautious",
+        "rule-following"
+      ],
+      "interests": [
+        "coding",
+        "anime",
+        "cooking"
+      ],
+      "known_dorm_mates": [
+        "S57",
+        "S58",
+        "S59",
+        "S61",
+        "S62",
+        "S63",
+        "S64"
+      ]
+    },
+    {
+      "id": "S61",
+      "name": "Shi Xuan",
+      "age": 15,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D8",
+      "dorm_index": 8,
+      "personality_traits": [
+        "optimistic",
+        "pragmatic",
+        "daydreaming"
+      ],
+      "interests": [
+        "running",
+        "reading",
+        "soccer"
+      ],
+      "known_dorm_mates": [
+        "S57",
+        "S58",
+        "S59",
+        "S60",
+        "S62",
+        "S63",
+        "S64"
+      ]
+    },
+    {
+      "id": "S62",
+      "name": "Wang Jun",
+      "age": 14,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D8",
+      "dorm_index": 8,
+      "personality_traits": [
+        "cooperative",
+        "diligent",
+        "sarcastic"
+      ],
+      "interests": [
+        "drawing",
+        "cooking",
+        "running"
+      ],
+      "known_dorm_mates": [
+        "S57",
+        "S58",
+        "S59",
+        "S60",
+        "S61",
+        "S63",
+        "S64"
+      ]
+    },
+    {
+      "id": "S63",
+      "name": "Fang Ning",
+      "age": 14,
+      "gender": "female",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D8",
+      "dorm_index": 8,
+      "personality_traits": [
+        "argumentative",
+        "rule-following",
+        "quiet"
+      ],
+      "interests": [
+        "coding",
+        "running",
+        "music"
+      ],
+      "known_dorm_mates": [
+        "S57",
+        "S58",
+        "S59",
+        "S60",
+        "S61",
+        "S62",
+        "S64"
+      ]
+    },
+    {
+      "id": "S64",
+      "name": "Gao Han",
+      "age": 15,
+      "gender": "male",
+      "school": "Huaxing Middle School",
+      "dorm_id": "D8",
+      "dorm_index": 8,
+      "personality_traits": [
+        "argumentative",
+        "lazy",
+        "pragmatic"
+      ],
+      "interests": [
+        "basketball",
+        "dance",
+        "video games"
+      ],
+      "known_dorm_mates": [
+        "S57",
+        "S58",
+        "S59",
+        "S60",
+        "S61",
+        "S62",
+        "S63"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6018 @@
+{
+  "38": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 54,
+      "target2_no": 17
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 56,
+      "target2_no": 49
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 12,
+      "target2_no": 60
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 128,
+      "target2_no": 65
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 80,
+      "target2_no": 120
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 72,
+      "target2_no": 88
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 59,
+      "target2_no": 124
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 73,
+      "target2_no": 34
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 35,
+      "target2_no": 90
+    }
+  ],
+  "56": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 38,
+      "target2_no": 16
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 45,
+      "target2_no": 55
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 31,
+      "target2_no": 2
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 78,
+      "target2_no": 98
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 79,
+      "target2_no": 74
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 104,
+      "target2_no": 106
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 67,
+      "target2_no": 62
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 57,
+      "target2_no": 77
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 20,
+      "target2_no": 96
+    }
+  ],
+  "49": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 52,
+      "target2_no": 15
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 42,
+      "target2_no": 18
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 30,
+      "target2_no": 8
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 118,
+      "target2_no": 125
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 71,
+      "target2_no": 109
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 117,
+      "target2_no": 68
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 6,
+      "target2_no": 116
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 51,
+      "target2_no": 113
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 84,
+      "target2_no": 33
+    }
+  ],
+  "12": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 39,
+      "target2_no": 23
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 10,
+      "target2_no": 22
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 64,
+      "target2_no": 4
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 66,
+      "target2_no": 101
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 75,
+      "target2_no": 115
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 89,
+      "target2_no": 92
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 3,
+      "target2_no": 105
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 87,
+      "target2_no": 36
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 41,
+      "target2_no": 100
+    }
+  ],
+  "60": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 11,
+      "target2_no": 13
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 21,
+      "target2_no": 32
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 47,
+      "target2_no": 27
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 83,
+      "target2_no": 82
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 103,
+      "target2_no": 76
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 107,
+      "target2_no": 112
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 110,
+      "target2_no": 7
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 19,
+      "target2_no": 108
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 37,
+      "target2_no": 97
+    }
+  ],
+  "54": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 44,
+      "target2_no": 5
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 48,
+      "target2_no": 58
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 46,
+      "target2_no": 25
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 69,
+      "target2_no": 121
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 81,
+      "target2_no": 94
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 119,
+      "target2_no": 93
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 29,
+      "target2_no": 111
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 95,
+      "target2_no": 14
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 53,
+      "target2_no": 85
+    }
+  ],
+  "17": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 61,
+      "target2_no": 26
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 24,
+      "target2_no": 1
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 9,
+      "target2_no": 43
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 91,
+      "target2_no": 126
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 114,
+      "target2_no": 127
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 86,
+      "target2_no": 102
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 122,
+      "target2_no": 40
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 63,
+      "target2_no": 123
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 50,
+      "target2_no": 99
+    }
+  ],
+  "35": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 56,
+      "target2_no": 49
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 12,
+      "target2_no": 60
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 38,
+      "target2_no": 28
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 65,
+      "target2_no": 80
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 88,
+      "target2_no": 128
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 72,
+      "target2_no": 70
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 54,
+      "target2_no": 120
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 59,
+      "target2_no": 124
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 90,
+      "target2_no": 17
+    }
+  ],
+  "59": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 35,
+      "target2_no": 34
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 16,
+      "target2_no": 31
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 2,
+      "target2_no": 45
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 73,
+      "target2_no": 78
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 98,
+      "target2_no": 104
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 106,
+      "target2_no": 79
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 57,
+      "target2_no": 77
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 96,
+      "target2_no": 20
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 55,
+      "target2_no": 74
+    }
+  ],
+  "34": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 62,
+      "target2_no": 30
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 8,
+      "target2_no": 52
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 15,
+      "target2_no": 42
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 67,
+      "target2_no": 117
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 68,
+      "target2_no": 118
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 125,
+      "target2_no": 71
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 109,
+      "target2_no": 18
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 6,
+      "target2_no": 116
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 33,
+      "target2_no": 84
+    }
+  ],
+  "16": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 4,
+      "target2_no": 10
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 22,
+      "target2_no": 39
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 51,
+      "target2_no": 64
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 92,
+      "target2_no": 75
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 115,
+      "target2_no": 66
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 113,
+      "target2_no": 89
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 101,
+      "target2_no": 23
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 36,
+      "target2_no": 87
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 3,
+      "target2_no": 105
+    }
+  ],
+  "31": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 41,
+      "target2_no": 11
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 32,
+      "target2_no": 47
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 13,
+      "target2_no": 21
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 100,
+      "target2_no": 103
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 76,
+      "target2_no": 83
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 82,
+      "target2_no": 107
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 27,
+      "target2_no": 112
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 19,
+      "target2_no": 108
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 97,
+      "target2_no": 37
+    }
+  ],
+  "2": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 58,
+      "target2_no": 46
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 7,
+      "target2_no": 48
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 25,
+      "target2_no": 44
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 93,
+      "target2_no": 81
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 110,
+      "target2_no": 119
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 94,
+      "target2_no": 69
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 95,
+      "target2_no": 14
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 5,
+      "target2_no": 121
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 29,
+      "target2_no": 111
+    }
+  ],
+  "45": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 26,
+      "target2_no": 24
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 53,
+      "target2_no": 9
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 43,
+      "target2_no": 61
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 126,
+      "target2_no": 86
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 102,
+      "target2_no": 114
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 85,
+      "target2_no": 91
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 123,
+      "target2_no": 63
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 40,
+      "target2_no": 122
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 1,
+      "target2_no": 127
+    }
+  ],
+  "55": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 50,
+      "target2_no": 28
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 38,
+      "target2_no": 56
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 49,
+      "target2_no": 12
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 99,
+      "target2_no": 70
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 72,
+      "target2_no": 88
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 128,
+      "target2_no": 65
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 80,
+      "target2_no": 60
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 17,
+      "target2_no": 90
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 54,
+      "target2_no": 120
+    }
+  ],
+  "20": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 34,
+      "target2_no": 16
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 35,
+      "target2_no": 59
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 31,
+      "target2_no": 2
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 78,
+      "target2_no": 98
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 104,
+      "target2_no": 106
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 124,
+      "target2_no": 73
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 57,
+      "target2_no": 96
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 79,
+      "target2_no": 45
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 55,
+      "target2_no": 74
+    }
+  ],
+  "57": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 30,
+      "target2_no": 8
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 52,
+      "target2_no": 15
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 20,
+      "target2_no": 62
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 118,
+      "target2_no": 125
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 117,
+      "target2_no": 68
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 77,
+      "target2_no": 67
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 42,
+      "target2_no": 71
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 109,
+      "target2_no": 18
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 33,
+      "target2_no": 84
+    }
+  ],
+  "62": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 10,
+      "target2_no": 22
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 64,
+      "target2_no": 4
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 6,
+      "target2_no": 51
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 75,
+      "target2_no": 115
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 116,
+      "target2_no": 113
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 89,
+      "target2_no": 92
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 39,
+      "target2_no": 66
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 23,
+      "target2_no": 101
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 105,
+      "target2_no": 3
+    }
+  ],
+  "30": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 36,
+      "target2_no": 41
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 11,
+      "target2_no": 13
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 21,
+      "target2_no": 32
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 83,
+      "target2_no": 82
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 87,
+      "target2_no": 100
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 103,
+      "target2_no": 76
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 37,
+      "target2_no": 97
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 27,
+      "target2_no": 112
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 107,
+      "target2_no": 47
+    }
+  ],
+  "8": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 46,
+      "target2_no": 25
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 48,
+      "target2_no": 58
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 19,
+      "target2_no": 7
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 81,
+      "target2_no": 94
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 119,
+      "target2_no": 93
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 108,
+      "target2_no": 110
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 44,
+      "target2_no": 69
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 29,
+      "target2_no": 111
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 121,
+      "target2_no": 5
+    }
+  ],
+  "52": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 9,
+      "target2_no": 43
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 61,
+      "target2_no": 26
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 14,
+      "target2_no": 53
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 86,
+      "target2_no": 102
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 91,
+      "target2_no": 126
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 95,
+      "target2_no": 85
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 114,
+      "target2_no": 24
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 40,
+      "target2_no": 122
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 1,
+      "target2_no": 127
+    }
+  ],
+  "15": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 63,
+      "target2_no": 50
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 56,
+      "target2_no": 49
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 38,
+      "target2_no": 28
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 72,
+      "target2_no": 70
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 123,
+      "target2_no": 99
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 88,
+      "target2_no": 128
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 80,
+      "target2_no": 60
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 12,
+      "target2_no": 65
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 54,
+      "target2_no": 120
+    }
+  ],
+  "42": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 59,
+      "target2_no": 34
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 17,
+      "target2_no": 35
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 16,
+      "target2_no": 31
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 73,
+      "target2_no": 78
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 90,
+      "target2_no": 124
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 98,
+      "target2_no": 104
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 106,
+      "target2_no": 2
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 55,
+      "target2_no": 74
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 45,
+      "target2_no": 79
+    }
+  ],
+  "18": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 20,
+      "target2_no": 57
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 8,
+      "target2_no": 52
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 62,
+      "target2_no": 30
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 68,
+      "target2_no": 118
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 67,
+      "target2_no": 117
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 96,
+      "target2_no": 77
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 33,
+      "target2_no": 109
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 125,
+      "target2_no": 15
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 42,
+      "target2_no": 71
+    }
+  ],
+  "33": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 51,
+      "target2_no": 64
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 18,
+      "target2_no": 6
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 4,
+      "target2_no": 10
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 113,
+      "target2_no": 89
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 84,
+      "target2_no": 116
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 92,
+      "target2_no": 75
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 22,
+      "target2_no": 115
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 101,
+      "target2_no": 23
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 39,
+      "target2_no": 66
+    }
+  ],
+  "6": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 41,
+      "target2_no": 11
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 3,
+      "target2_no": 36
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 13,
+      "target2_no": 21
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 76,
+      "target2_no": 83
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 105,
+      "target2_no": 87
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 100,
+      "target2_no": 103
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 32,
+      "target2_no": 82
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 47,
+      "target2_no": 107
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 112,
+      "target2_no": 27
+    }
+  ],
+  "51": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 37,
+      "target2_no": 19
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 7,
+      "target2_no": 48
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 58,
+      "target2_no": 46
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 110,
+      "target2_no": 119
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 93,
+      "target2_no": 81
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 97,
+      "target2_no": 108
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 44,
+      "target2_no": 69
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 94,
+      "target2_no": 25
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 5,
+      "target2_no": 121
+    }
+  ],
+  "64": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 29,
+      "target2_no": 14
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 43,
+      "target2_no": 61
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 53,
+      "target2_no": 9
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 126,
+      "target2_no": 86
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 111,
+      "target2_no": 95
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 85,
+      "target2_no": 91
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 24,
+      "target2_no": 114
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 102,
+      "target2_no": 26
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 1,
+      "target2_no": 127
+    }
+  ],
+  "4": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 38,
+      "target2_no": 56
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 40,
+      "target2_no": 63
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 50,
+      "target2_no": 28
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 122,
+      "target2_no": 123
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 99,
+      "target2_no": 70
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 72,
+      "target2_no": 88
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 80,
+      "target2_no": 60
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 12,
+      "target2_no": 65
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 49,
+      "target2_no": 128
+    }
+  ],
+  "10": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 54,
+      "target2_no": 17
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 35,
+      "target2_no": 59
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 34,
+      "target2_no": 16
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 124,
+      "target2_no": 73
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 78,
+      "target2_no": 98
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 120,
+      "target2_no": 90
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 2,
+      "target2_no": 106
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 79,
+      "target2_no": 45
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 31,
+      "target2_no": 104
+    }
+  ],
+  "22": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 55,
+      "target2_no": 20
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 30,
+      "target2_no": 8
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 57,
+      "target2_no": 62
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 117,
+      "target2_no": 68
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 77,
+      "target2_no": 67
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 74,
+      "target2_no": 96
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 42,
+      "target2_no": 71
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 52,
+      "target2_no": 118
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 125,
+      "target2_no": 15
+    }
+  ],
+  "39": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 64,
+      "target2_no": 4
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 6,
+      "target2_no": 51
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 18,
+      "target2_no": 33
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 116,
+      "target2_no": 113
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 89,
+      "target2_no": 92
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 109,
+      "target2_no": 84
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 22,
+      "target2_no": 115
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 66,
+      "target2_no": 23
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 10,
+      "target2_no": 75
+    }
+  ],
+  "23": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 36,
+      "target2_no": 41
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 39,
+      "target2_no": 3
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 11,
+      "target2_no": 13
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 87,
+      "target2_no": 100
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 101,
+      "target2_no": 105
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 103,
+      "target2_no": 76
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 82,
+      "target2_no": 32
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 47,
+      "target2_no": 107
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 21,
+      "target2_no": 83
+    }
+  ],
+  "3": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 27,
+      "target2_no": 37
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 19,
+      "target2_no": 7
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 48,
+      "target2_no": 58
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 119,
+      "target2_no": 93
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 112,
+      "target2_no": 97
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 108,
+      "target2_no": 110
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 46,
+      "target2_no": 81
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 44,
+      "target2_no": 69
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 94,
+      "target2_no": 25
+    }
+  ],
+  "36": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 9,
+      "target2_no": 43
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 5,
+      "target2_no": 29
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 14,
+      "target2_no": 53
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 121,
+      "target2_no": 111
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 91,
+      "target2_no": 126
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 95,
+      "target2_no": 85
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 102,
+      "target2_no": 26
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 24,
+      "target2_no": 114
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 61,
+      "target2_no": 86
+    }
+  ],
+  "41": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 63,
+      "target2_no": 50
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 1,
+      "target2_no": 40
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 38,
+      "target2_no": 28
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 127,
+      "target2_no": 122
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 72,
+      "target2_no": 70
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 123,
+      "target2_no": 99
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 49,
+      "target2_no": 128
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 56,
+      "target2_no": 88
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 65,
+      "target2_no": 12
+    }
+  ],
+  "11": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 17,
+      "target2_no": 35
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 60,
+      "target2_no": 54
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 59,
+      "target2_no": 34
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 90,
+      "target2_no": 124
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 80,
+      "target2_no": 120
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 73,
+      "target2_no": 78
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 106,
+      "target2_no": 2
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 16,
+      "target2_no": 98
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 31,
+      "target2_no": 104
+    }
+  ],
+  "13": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 62,
+      "target2_no": 30
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 20,
+      "target2_no": 57
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 45,
+      "target2_no": 55
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 79,
+      "target2_no": 74
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 67,
+      "target2_no": 117
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 96,
+      "target2_no": 77
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 118,
+      "target2_no": 52
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 8,
+      "target2_no": 68
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 15,
+      "target2_no": 125
+    }
+  ],
+  "21": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 33,
+      "target2_no": 6
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 51,
+      "target2_no": 64
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 42,
+      "target2_no": 18
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 84,
+      "target2_no": 116
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 113,
+      "target2_no": 89
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 71,
+      "target2_no": 109
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 75,
+      "target2_no": 10
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 22,
+      "target2_no": 115
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 4,
+      "target2_no": 92
+    }
+  ],
+  "32": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 3,
+      "target2_no": 36
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 41,
+      "target2_no": 11
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 39,
+      "target2_no": 23
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 105,
+      "target2_no": 87
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 66,
+      "target2_no": 101
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 100,
+      "target2_no": 103
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 21,
+      "target2_no": 83
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 82,
+      "target2_no": 47
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 13,
+      "target2_no": 76
+    }
+  ],
+  "47": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 32,
+      "target2_no": 27
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 37,
+      "target2_no": 19
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 7,
+      "target2_no": 48
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 107,
+      "target2_no": 112
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 97,
+      "target2_no": 108
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 110,
+      "target2_no": 119
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 46,
+      "target2_no": 81
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 58,
+      "target2_no": 93
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 94,
+      "target2_no": 25
+    }
+  ],
+  "27": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 53,
+      "target2_no": 9
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 29,
+      "target2_no": 14
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 44,
+      "target2_no": 5
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 111,
+      "target2_no": 95
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 69,
+      "target2_no": 121
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 85,
+      "target2_no": 91
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 86,
+      "target2_no": 61
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 26,
+      "target2_no": 102
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 43,
+      "target2_no": 126
+    }
+  ],
+  "37": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 24,
+      "target2_no": 1
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 50,
+      "target2_no": 28
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 40,
+      "target2_no": 63
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 114,
+      "target2_no": 127
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 99,
+      "target2_no": 70
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 122,
+      "target2_no": 123
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 56,
+      "target2_no": 88
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 49,
+      "target2_no": 128
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 72,
+      "target2_no": 38
+    }
+  ],
+  "19": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 35,
+      "target2_no": 59
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 54,
+      "target2_no": 17
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 12,
+      "target2_no": 60
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 120,
+      "target2_no": 90
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 65,
+      "target2_no": 80
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 124,
+      "target2_no": 73
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 31,
+      "target2_no": 104
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 98,
+      "target2_no": 16
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 34,
+      "target2_no": 78
+    }
+  ],
+  "7": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 57,
+      "target2_no": 62
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 2,
+      "target2_no": 45
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 55,
+      "target2_no": 20
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 106,
+      "target2_no": 79
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 74,
+      "target2_no": 96
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 77,
+      "target2_no": 67
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 52,
+      "target2_no": 118
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 117,
+      "target2_no": 30
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 8,
+      "target2_no": 68
+    }
+  ],
+  "48": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 6,
+      "target2_no": 51
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 18,
+      "target2_no": 33
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 15,
+      "target2_no": 42
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 109,
+      "target2_no": 84
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 125,
+      "target2_no": 71
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 116,
+      "target2_no": 113
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 64,
+      "target2_no": 89
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 75,
+      "target2_no": 10
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 4,
+      "target2_no": 92
+    }
+  ],
+  "58": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 36,
+      "target2_no": 41
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 23,
+      "target2_no": 3
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 22,
+      "target2_no": 39
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 101,
+      "target2_no": 105
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 115,
+      "target2_no": 66
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 87,
+      "target2_no": 100
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 76,
+      "target2_no": 13
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 11,
+      "target2_no": 103
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 21,
+      "target2_no": 83
+    }
+  ],
+  "46": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 27,
+      "target2_no": 37
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 32,
+      "target2_no": 47
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 19,
+      "target2_no": 7
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 82,
+      "target2_no": 107
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 112,
+      "target2_no": 97
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 108,
+      "target2_no": 110
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 119,
+      "target2_no": 48
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 58,
+      "target2_no": 93
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 25,
+      "target2_no": 81
+    }
+  ],
+  "25": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 46,
+      "target2_no": 44
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 5,
+      "target2_no": 29
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 14,
+      "target2_no": 53
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 121,
+      "target2_no": 111
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 94,
+      "target2_no": 69
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 95,
+      "target2_no": 85
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 43,
+      "target2_no": 126
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 86,
+      "target2_no": 61
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 9,
+      "target2_no": 91
+    }
+  ],
+  "44": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 1,
+      "target2_no": 40
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 26,
+      "target2_no": 24
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 63,
+      "target2_no": 50
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 127,
+      "target2_no": 122
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 102,
+      "target2_no": 114
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 123,
+      "target2_no": 99
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 38,
+      "target2_no": 72
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 56,
+      "target2_no": 88
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 70,
+      "target2_no": 28
+    }
+  ],
+  "5": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 60,
+      "target2_no": 54
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 49,
+      "target2_no": 12
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 17,
+      "target2_no": 35
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 90,
+      "target2_no": 124
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 128,
+      "target2_no": 65
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 80,
+      "target2_no": 120
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 73,
+      "target2_no": 59
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 16,
+      "target2_no": 98
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 34,
+      "target2_no": 78
+    }
+  ],
+  "29": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 31,
+      "target2_no": 2
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 45,
+      "target2_no": 55
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 20,
+      "target2_no": 57
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 96,
+      "target2_no": 77
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 79,
+      "target2_no": 74
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 104,
+      "target2_no": 106
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 30,
+      "target2_no": 117
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 8,
+      "target2_no": 68
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 67,
+      "target2_no": 62
+    }
+  ],
+  "14": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 33,
+      "target2_no": 6
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 52,
+      "target2_no": 15
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 42,
+      "target2_no": 18
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 71,
+      "target2_no": 109
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 118,
+      "target2_no": 125
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 84,
+      "target2_no": 116
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 92,
+      "target2_no": 4
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 51,
+      "target2_no": 113
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 64,
+      "target2_no": 89
+    }
+  ],
+  "53": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 3,
+      "target2_no": 36
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 39,
+      "target2_no": 23
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 10,
+      "target2_no": 22
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 75,
+      "target2_no": 115
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 105,
+      "target2_no": 87
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 66,
+      "target2_no": 101
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 76,
+      "target2_no": 13
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 11,
+      "target2_no": 103
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 41,
+      "target2_no": 100
+    }
+  ],
+  "9": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 21,
+      "target2_no": 32
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 37,
+      "target2_no": 19
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 47,
+      "target2_no": 27
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 97,
+      "target2_no": 108
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 83,
+      "target2_no": 82
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 107,
+      "target2_no": 112
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 110,
+      "target2_no": 7
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 48,
+      "target2_no": 119
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 58,
+      "target2_no": 93
+    }
+  ],
+  "43": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 29,
+      "target2_no": 14
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 44,
+      "target2_no": 5
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 46,
+      "target2_no": 25
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 81,
+      "target2_no": 94
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 111,
+      "target2_no": 95
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 69,
+      "target2_no": 121
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 9,
+      "target2_no": 91
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 53,
+      "target2_no": 85
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 126,
+      "target2_no": 61
+    }
+  ],
+  "61": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 24,
+      "target2_no": 1
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 43,
+      "target2_no": 26
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 40,
+      "target2_no": 63
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 86,
+      "target2_no": 102
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 122,
+      "target2_no": 123
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 114,
+      "target2_no": 127
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 50,
+      "target2_no": 99
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 72,
+      "target2_no": 38
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 28,
+      "target2_no": 70
+    }
+  ],
+  "26": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 54,
+      "target2_no": 17
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 12,
+      "target2_no": 60
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 56,
+      "target2_no": 49
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 65,
+      "target2_no": 80
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 88,
+      "target2_no": 128
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 120,
+      "target2_no": 90
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 34,
+      "target2_no": 78
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 124,
+      "target2_no": 35
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 59,
+      "target2_no": 73
+    }
+  ],
+  "24": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 16,
+      "target2_no": 31
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 2,
+      "target2_no": 45
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 55,
+      "target2_no": 20
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 98,
+      "target2_no": 104
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 106,
+      "target2_no": 79
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 74,
+      "target2_no": 96
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 57,
+      "target2_no": 77
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 117,
+      "target2_no": 30
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 62,
+      "target2_no": 67
+    }
+  ],
+  "1": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 15,
+      "target2_no": 42
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 18,
+      "target2_no": 33
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 8,
+      "target2_no": 52
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 109,
+      "target2_no": 84
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 125,
+      "target2_no": 71
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 68,
+      "target2_no": 118
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 6,
+      "target2_no": 116
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 113,
+      "target2_no": 51
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 64,
+      "target2_no": 89
+    }
+  ],
+  "40": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 22,
+      "target2_no": 39
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 23,
+      "target2_no": 3
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 4,
+      "target2_no": 10
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 92,
+      "target2_no": 75
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 101,
+      "target2_no": 105
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 115,
+      "target2_no": 66
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 41,
+      "target2_no": 100
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 103,
+      "target2_no": 11
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 36,
+      "target2_no": 87
+    }
+  ],
+  "63": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 13,
+      "target2_no": 21
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 32,
+      "target2_no": 47
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 27,
+      "target2_no": 37
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 76,
+      "target2_no": 83
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 112,
+      "target2_no": 97
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 82,
+      "target2_no": 107
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 19,
+      "target2_no": 108
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 7,
+      "target2_no": 110
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 119,
+      "target2_no": 48
+    }
+  ],
+  "50": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 5,
+      "target2_no": 29
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 25,
+      "target2_no": 44
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 58,
+      "target2_no": 46
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 94,
+      "target2_no": 69
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 93,
+      "target2_no": 81
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 121,
+      "target2_no": 111
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 95,
+      "target2_no": 14
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 9,
+      "target2_no": 91
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 53,
+      "target2_no": 85
+    }
+  ],
+  "28": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 43,
+      "target2_no": 61
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 1,
+      "target2_no": 40
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 26,
+      "target2_no": 24
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 102,
+      "target2_no": 114
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 127,
+      "target2_no": 122
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 126,
+      "target2_no": 86
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 38,
+      "target2_no": 70
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 123,
+      "target2_no": 63
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 50,
+      "target2_no": 99
+    }
+  ],
+  "72": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 88,
+      "target2_no": 128
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 65,
+      "target2_no": 80
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 120,
+      "target2_no": 90
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 56,
+      "target2_no": 28
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 60,
+      "target2_no": 54
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 49,
+      "target2_no": 12
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 17,
+      "target2_no": 124
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 73,
+      "target2_no": 35
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 78,
+      "target2_no": 59
+    }
+  ],
+  "88": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 72,
+      "target2_no": 98
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 104,
+      "target2_no": 106
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 79,
+      "target2_no": 74
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 45,
+      "target2_no": 55
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 31,
+      "target2_no": 2
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 34,
+      "target2_no": 16
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 77,
+      "target2_no": 57
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 96,
+      "target2_no": 20
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 62,
+      "target2_no": 67
+    }
+  ],
+  "128": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 118,
+      "target2_no": 125
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 117,
+      "target2_no": 68
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 71,
+      "target2_no": 109
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 30,
+      "target2_no": 8
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 42,
+      "target2_no": 18
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 52,
+      "target2_no": 15
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 113,
+      "target2_no": 51
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 84,
+      "target2_no": 33
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 6,
+      "target2_no": 116
+    }
+  ],
+  "65": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 75,
+      "target2_no": 115
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 89,
+      "target2_no": 92
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 66,
+      "target2_no": 101
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 39,
+      "target2_no": 23
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 64,
+      "target2_no": 4
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 10,
+      "target2_no": 22
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 36,
+      "target2_no": 87
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 105,
+      "target2_no": 3
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 100,
+      "target2_no": 41
+    }
+  ],
+  "80": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 107,
+      "target2_no": 112
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 103,
+      "target2_no": 76
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 83,
+      "target2_no": 82
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 11,
+      "target2_no": 13
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 47,
+      "target2_no": 27
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 21,
+      "target2_no": 32
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 108,
+      "target2_no": 19
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 97,
+      "target2_no": 37
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 7,
+      "target2_no": 110
+    }
+  ],
+  "120": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 119,
+      "target2_no": 93
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 81,
+      "target2_no": 94
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 69,
+      "target2_no": 121
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 46,
+      "target2_no": 25
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 44,
+      "target2_no": 5
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 48,
+      "target2_no": 58
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 95,
+      "target2_no": 14
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 29,
+      "target2_no": 111
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 85,
+      "target2_no": 53
+    }
+  ],
+  "90": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 86,
+      "target2_no": 102
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 114,
+      "target2_no": 127
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 91,
+      "target2_no": 126
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 61,
+      "target2_no": 26
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 24,
+      "target2_no": 1
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 9,
+      "target2_no": 43
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 122,
+      "target2_no": 40
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 50,
+      "target2_no": 99
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 123,
+      "target2_no": 63
+    }
+  ],
+  "124": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 88,
+      "target2_no": 128
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 65,
+      "target2_no": 80
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 72,
+      "target2_no": 70
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 38,
+      "target2_no": 28
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 56,
+      "target2_no": 49
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 12,
+      "target2_no": 60
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 120,
+      "target2_no": 54
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 17,
+      "target2_no": 90
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 73,
+      "target2_no": 35
+    }
+  ],
+  "73": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 124,
+      "target2_no": 78
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 106,
+      "target2_no": 79
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 98,
+      "target2_no": 104
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 59,
+      "target2_no": 34
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 2,
+      "target2_no": 45
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 16,
+      "target2_no": 31
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 20,
+      "target2_no": 96
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 74,
+      "target2_no": 55
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 77,
+      "target2_no": 57
+    }
+  ],
+  "78": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 125,
+      "target2_no": 71
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 68,
+      "target2_no": 118
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 67,
+      "target2_no": 117
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 15,
+      "target2_no": 42
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 62,
+      "target2_no": 30
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 8,
+      "target2_no": 52
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 33,
+      "target2_no": 84
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 116,
+      "target2_no": 6
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 109,
+      "target2_no": 18
+    }
+  ],
+  "98": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 115,
+      "target2_no": 66
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 92,
+      "target2_no": 75
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 113,
+      "target2_no": 89
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 51,
+      "target2_no": 64
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 4,
+      "target2_no": 10
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 22,
+      "target2_no": 39
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 101,
+      "target2_no": 23
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 105,
+      "target2_no": 3
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 36,
+      "target2_no": 87
+    }
+  ],
+  "104": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 76,
+      "target2_no": 83
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 82,
+      "target2_no": 107
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 100,
+      "target2_no": 103
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 41,
+      "target2_no": 11
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 32,
+      "target2_no": 47
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 13,
+      "target2_no": 21
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 108,
+      "target2_no": 19
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 27,
+      "target2_no": 112
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 97,
+      "target2_no": 37
+    }
+  ],
+  "106": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 94,
+      "target2_no": 69
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 110,
+      "target2_no": 119
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 93,
+      "target2_no": 81
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 7,
+      "target2_no": 48
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 25,
+      "target2_no": 44
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 58,
+      "target2_no": 46
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 95,
+      "target2_no": 14
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 5,
+      "target2_no": 121
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 111,
+      "target2_no": 29
+    }
+  ],
+  "79": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 126,
+      "target2_no": 86
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 85,
+      "target2_no": 91
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 102,
+      "target2_no": 114
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 53,
+      "target2_no": 9
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 26,
+      "target2_no": 24
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 43,
+      "target2_no": 61
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 122,
+      "target2_no": 40
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 63,
+      "target2_no": 123
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 127,
+      "target2_no": 1
+    }
+  ],
+  "74": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 99,
+      "target2_no": 70
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 72,
+      "target2_no": 88
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 128,
+      "target2_no": 65
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 49,
+      "target2_no": 12
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 50,
+      "target2_no": 28
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 38,
+      "target2_no": 56
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 60,
+      "target2_no": 80
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 90,
+      "target2_no": 17
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 120,
+      "target2_no": 54
+    }
+  ],
+  "96": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 78,
+      "target2_no": 98
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 104,
+      "target2_no": 106
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 124,
+      "target2_no": 73
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 34,
+      "target2_no": 16
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 31,
+      "target2_no": 2
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 35,
+      "target2_no": 59
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 77,
+      "target2_no": 20
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 45,
+      "target2_no": 79
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 74,
+      "target2_no": 55
+    }
+  ],
+  "77": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 96,
+      "target2_no": 67
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 118,
+      "target2_no": 125
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 117,
+      "target2_no": 68
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 52,
+      "target2_no": 15
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 57,
+      "target2_no": 62
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 30,
+      "target2_no": 8
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 109,
+      "target2_no": 18
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 33,
+      "target2_no": 84
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 71,
+      "target2_no": 42
+    }
+  ],
+  "67": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 89,
+      "target2_no": 92
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 75,
+      "target2_no": 115
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 116,
+      "target2_no": 113
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 10,
+      "target2_no": 22
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 6,
+      "target2_no": 51
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 64,
+      "target2_no": 4
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 23,
+      "target2_no": 101
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 66,
+      "target2_no": 39
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 105,
+      "target2_no": 3
+    }
+  ],
+  "117": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 103,
+      "target2_no": 76
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 87,
+      "target2_no": 100
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 83,
+      "target2_no": 82
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 21,
+      "target2_no": 32
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 11,
+      "target2_no": 13
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 36,
+      "target2_no": 41
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 112,
+      "target2_no": 27
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 47,
+      "target2_no": 107
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 97,
+      "target2_no": 37
+    }
+  ],
+  "68": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 119,
+      "target2_no": 93
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 81,
+      "target2_no": 94
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 108,
+      "target2_no": 110
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 48,
+      "target2_no": 58
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 19,
+      "target2_no": 7
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 46,
+      "target2_no": 25
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 111,
+      "target2_no": 29
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 121,
+      "target2_no": 5
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 44,
+      "target2_no": 69
+    }
+  ],
+  "118": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 91,
+      "target2_no": 126
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 86,
+      "target2_no": 102
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 95,
+      "target2_no": 85
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 61,
+      "target2_no": 26
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 14,
+      "target2_no": 53
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 9,
+      "target2_no": 43
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 122,
+      "target2_no": 40
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 114,
+      "target2_no": 24
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 1,
+      "target2_no": 127
+    }
+  ],
+  "125": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 88,
+      "target2_no": 128
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 123,
+      "target2_no": 99
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 72,
+      "target2_no": 70
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 63,
+      "target2_no": 50
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 56,
+      "target2_no": 49
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 38,
+      "target2_no": 28
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 120,
+      "target2_no": 54
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 12,
+      "target2_no": 65
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 80,
+      "target2_no": 60
+    }
+  ],
+  "71": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 98,
+      "target2_no": 104
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 90,
+      "target2_no": 124
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 73,
+      "target2_no": 78
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 59,
+      "target2_no": 34
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 16,
+      "target2_no": 31
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 17,
+      "target2_no": 35
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 55,
+      "target2_no": 74
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 106,
+      "target2_no": 2
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 79,
+      "target2_no": 45
+    }
+  ],
+  "109": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 67,
+      "target2_no": 117
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 68,
+      "target2_no": 118
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 96,
+      "target2_no": 77
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 8,
+      "target2_no": 52
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 62,
+      "target2_no": 30
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 20,
+      "target2_no": 57
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 84,
+      "target2_no": 18
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 125,
+      "target2_no": 15
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 42,
+      "target2_no": 71
+    }
+  ],
+  "84": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 109,
+      "target2_no": 116
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 92,
+      "target2_no": 75
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 113,
+      "target2_no": 89
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 33,
+      "target2_no": 6
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 4,
+      "target2_no": 10
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 51,
+      "target2_no": 64
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 115,
+      "target2_no": 22
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 101,
+      "target2_no": 23
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 39,
+      "target2_no": 66
+    }
+  ],
+  "116": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 105,
+      "target2_no": 87
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 100,
+      "target2_no": 103
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 76,
+      "target2_no": 83
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 3,
+      "target2_no": 36
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 41,
+      "target2_no": 11
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 13,
+      "target2_no": 21
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 47,
+      "target2_no": 107
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 82,
+      "target2_no": 32
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 112,
+      "target2_no": 27
+    }
+  ],
+  "113": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 97,
+      "target2_no": 108
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 93,
+      "target2_no": 81
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 110,
+      "target2_no": 119
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 7,
+      "target2_no": 48
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 58,
+      "target2_no": 46
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 37,
+      "target2_no": 19
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 44,
+      "target2_no": 69
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 94,
+      "target2_no": 25
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 121,
+      "target2_no": 5
+    }
+  ],
+  "89": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 85,
+      "target2_no": 91
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 126,
+      "target2_no": 86
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 111,
+      "target2_no": 95
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 29,
+      "target2_no": 14
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 53,
+      "target2_no": 9
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 43,
+      "target2_no": 61
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 127,
+      "target2_no": 1
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 26,
+      "target2_no": 102
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 114,
+      "target2_no": 24
+    }
+  ],
+  "92": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 122,
+      "target2_no": 123
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 72,
+      "target2_no": 88
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 99,
+      "target2_no": 70
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 38,
+      "target2_no": 56
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 40,
+      "target2_no": 63
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 50,
+      "target2_no": 28
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 60,
+      "target2_no": 80
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 65,
+      "target2_no": 12
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 128,
+      "target2_no": 49
+    }
+  ],
+  "75": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 78,
+      "target2_no": 98
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 124,
+      "target2_no": 73
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 120,
+      "target2_no": 90
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 54,
+      "target2_no": 17
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 34,
+      "target2_no": 16
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 35,
+      "target2_no": 59
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 79,
+      "target2_no": 45
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 2,
+      "target2_no": 106
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 104,
+      "target2_no": 31
+    }
+  ],
+  "115": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 77,
+      "target2_no": 67
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 74,
+      "target2_no": 96
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 117,
+      "target2_no": 68
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 30,
+      "target2_no": 8
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 55,
+      "target2_no": 20
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 57,
+      "target2_no": 62
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 71,
+      "target2_no": 42
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 15,
+      "target2_no": 125
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 118,
+      "target2_no": 52
+    }
+  ],
+  "66": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 116,
+      "target2_no": 113
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 89,
+      "target2_no": 92
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 109,
+      "target2_no": 84
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 18,
+      "target2_no": 33
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 6,
+      "target2_no": 51
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 64,
+      "target2_no": 4
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 101,
+      "target2_no": 39
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 115,
+      "target2_no": 22
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 10,
+      "target2_no": 75
+    }
+  ],
+  "101": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 87,
+      "target2_no": 100
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 103,
+      "target2_no": 76
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 66,
+      "target2_no": 105
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 23,
+      "target2_no": 3
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 11,
+      "target2_no": 13
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 36,
+      "target2_no": 41
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 21,
+      "target2_no": 83
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 107,
+      "target2_no": 47
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 82,
+      "target2_no": 32
+    }
+  ],
+  "105": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 108,
+      "target2_no": 110
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 112,
+      "target2_no": 97
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 119,
+      "target2_no": 93
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 19,
+      "target2_no": 7
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 27,
+      "target2_no": 37
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 48,
+      "target2_no": 58
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 69,
+      "target2_no": 44
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 25,
+      "target2_no": 94
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 81,
+      "target2_no": 46
+    }
+  ],
+  "87": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 95,
+      "target2_no": 85
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 121,
+      "target2_no": 111
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 91,
+      "target2_no": 126
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 9,
+      "target2_no": 43
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 5,
+      "target2_no": 29
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 14,
+      "target2_no": 53
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 114,
+      "target2_no": 24
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 61,
+      "target2_no": 86
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 102,
+      "target2_no": 26
+    }
+  ],
+  "100": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 127,
+      "target2_no": 122
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 72,
+      "target2_no": 70
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 123,
+      "target2_no": 99
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 63,
+      "target2_no": 50
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 1,
+      "target2_no": 40
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 38,
+      "target2_no": 28
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 128,
+      "target2_no": 49
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 88,
+      "target2_no": 56
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 12,
+      "target2_no": 65
+    }
+  ],
+  "103": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 90,
+      "target2_no": 124
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 73,
+      "target2_no": 78
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 80,
+      "target2_no": 120
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 60,
+      "target2_no": 54
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 59,
+      "target2_no": 34
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 17,
+      "target2_no": 35
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 106,
+      "target2_no": 2
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 98,
+      "target2_no": 16
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 31,
+      "target2_no": 104
+    }
+  ],
+  "76": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 79,
+      "target2_no": 74
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 67,
+      "target2_no": 117
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 96,
+      "target2_no": 77
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 45,
+      "target2_no": 55
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 20,
+      "target2_no": 57
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 62,
+      "target2_no": 30
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 68,
+      "target2_no": 8
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 15,
+      "target2_no": 125
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 118,
+      "target2_no": 52
+    }
+  ],
+  "83": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 84,
+      "target2_no": 116
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 113,
+      "target2_no": 89
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 71,
+      "target2_no": 109
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 42,
+      "target2_no": 18
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 33,
+      "target2_no": 6
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 51,
+      "target2_no": 64
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 10,
+      "target2_no": 75
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 92,
+      "target2_no": 4
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 115,
+      "target2_no": 22
+    }
+  ],
+  "82": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 105,
+      "target2_no": 87
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 100,
+      "target2_no": 103
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 66,
+      "target2_no": 101
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 3,
+      "target2_no": 36
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 39,
+      "target2_no": 23
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 41,
+      "target2_no": 11
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 83,
+      "target2_no": 21
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 76,
+      "target2_no": 13
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 32,
+      "target2_no": 107
+    }
+  ],
+  "107": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 110,
+      "target2_no": 119
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 82,
+      "target2_no": 112
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 97,
+      "target2_no": 108
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 47,
+      "target2_no": 27
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 37,
+      "target2_no": 19
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 7,
+      "target2_no": 48
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 58,
+      "target2_no": 93
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 81,
+      "target2_no": 46
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 94,
+      "target2_no": 25
+    }
+  ],
+  "112": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 111,
+      "target2_no": 95
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 85,
+      "target2_no": 91
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 69,
+      "target2_no": 121
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 53,
+      "target2_no": 9
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 44,
+      "target2_no": 5
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 29,
+      "target2_no": 14
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 86,
+      "target2_no": 61
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 126,
+      "target2_no": 43
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 26,
+      "target2_no": 102
+    }
+  ],
+  "97": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 99,
+      "target2_no": 70
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 114,
+      "target2_no": 127
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 122,
+      "target2_no": 123
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 24,
+      "target2_no": 1
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 50,
+      "target2_no": 28
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 40,
+      "target2_no": 63
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 128,
+      "target2_no": 49
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 88,
+      "target2_no": 56
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 38,
+      "target2_no": 72
+    }
+  ],
+  "108": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 65,
+      "target2_no": 80
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 120,
+      "target2_no": 90
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 124,
+      "target2_no": 73
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 54,
+      "target2_no": 17
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 35,
+      "target2_no": 59
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 12,
+      "target2_no": 60
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 78,
+      "target2_no": 34
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 98,
+      "target2_no": 16
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 31,
+      "target2_no": 104
+    }
+  ],
+  "110": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 77,
+      "target2_no": 67
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 74,
+      "target2_no": 96
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 106,
+      "target2_no": 79
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 55,
+      "target2_no": 20
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 57,
+      "target2_no": 62
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 2,
+      "target2_no": 45
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 118,
+      "target2_no": 52
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 8,
+      "target2_no": 68
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 117,
+      "target2_no": 30
+    }
+  ],
+  "119": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 109,
+      "target2_no": 84
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 116,
+      "target2_no": 113
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 125,
+      "target2_no": 71
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 18,
+      "target2_no": 33
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 6,
+      "target2_no": 51
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 15,
+      "target2_no": 42
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 92,
+      "target2_no": 4
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 64,
+      "target2_no": 89
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 75,
+      "target2_no": 10
+    }
+  ],
+  "93": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 115,
+      "target2_no": 66
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 101,
+      "target2_no": 105
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 87,
+      "target2_no": 100
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 23,
+      "target2_no": 3
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 36,
+      "target2_no": 41
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 22,
+      "target2_no": 39
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 103,
+      "target2_no": 11
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 76,
+      "target2_no": 13
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 21,
+      "target2_no": 83
+    }
+  ],
+  "81": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 108,
+      "target2_no": 110
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 82,
+      "target2_no": 107
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 112,
+      "target2_no": 97
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 27,
+      "target2_no": 37
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 19,
+      "target2_no": 7
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 32,
+      "target2_no": 47
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 94,
+      "target2_no": 46
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 119,
+      "target2_no": 48
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 58,
+      "target2_no": 93
+    }
+  ],
+  "94": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 81,
+      "target2_no": 69
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 95,
+      "target2_no": 85
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 121,
+      "target2_no": 111
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 5,
+      "target2_no": 29
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 25,
+      "target2_no": 44
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 14,
+      "target2_no": 53
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 43,
+      "target2_no": 126
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 86,
+      "target2_no": 61
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 91,
+      "target2_no": 9
+    }
+  ],
+  "69": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 127,
+      "target2_no": 122
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 102,
+      "target2_no": 114
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 123,
+      "target2_no": 99
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 1,
+      "target2_no": 40
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 26,
+      "target2_no": 24
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 63,
+      "target2_no": 50
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 28,
+      "target2_no": 70
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 88,
+      "target2_no": 56
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 72,
+      "target2_no": 38
+    }
+  ],
+  "121": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 90,
+      "target2_no": 124
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 80,
+      "target2_no": 120
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 128,
+      "target2_no": 65
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 17,
+      "target2_no": 35
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 49,
+      "target2_no": 12
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 60,
+      "target2_no": 54
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 16,
+      "target2_no": 98
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 73,
+      "target2_no": 59
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 78,
+      "target2_no": 34
+    }
+  ],
+  "111": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 96,
+      "target2_no": 77
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 104,
+      "target2_no": 106
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 79,
+      "target2_no": 74
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 20,
+      "target2_no": 57
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 31,
+      "target2_no": 2
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 45,
+      "target2_no": 55
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 68,
+      "target2_no": 8
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 67,
+      "target2_no": 62
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 30,
+      "target2_no": 117
+    }
+  ],
+  "95": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 84,
+      "target2_no": 116
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 71,
+      "target2_no": 109
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 118,
+      "target2_no": 125
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 33,
+      "target2_no": 6
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 52,
+      "target2_no": 15
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 42,
+      "target2_no": 18
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 51,
+      "target2_no": 113
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 92,
+      "target2_no": 4
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 89,
+      "target2_no": 64
+    }
+  ],
+  "85": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 75,
+      "target2_no": 115
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 66,
+      "target2_no": 101
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 105,
+      "target2_no": 87
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 3,
+      "target2_no": 36
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 10,
+      "target2_no": 22
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 39,
+      "target2_no": 23
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 103,
+      "target2_no": 11
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 100,
+      "target2_no": 41
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 13,
+      "target2_no": 76
+    }
+  ],
+  "91": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 83,
+      "target2_no": 82
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 97,
+      "target2_no": 108
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 107,
+      "target2_no": 112
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 47,
+      "target2_no": 27
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 37,
+      "target2_no": 19
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 21,
+      "target2_no": 32
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 7,
+      "target2_no": 110
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 93,
+      "target2_no": 58
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 119,
+      "target2_no": 48
+    }
+  ],
+  "126": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 69,
+      "target2_no": 121
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 111,
+      "target2_no": 95
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 81,
+      "target2_no": 94
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 29,
+      "target2_no": 14
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 44,
+      "target2_no": 5
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 46,
+      "target2_no": 25
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 91,
+      "target2_no": 9
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 85,
+      "target2_no": 53
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 43,
+      "target2_no": 86
+    }
+  ],
+  "86": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 126,
+      "target2_no": 102
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 114,
+      "target2_no": 127
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 122,
+      "target2_no": 123
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 40,
+      "target2_no": 63
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 61,
+      "target2_no": 26
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 24,
+      "target2_no": 1
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 99,
+      "target2_no": 50
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 72,
+      "target2_no": 38
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 28,
+      "target2_no": 70
+    }
+  ],
+  "102": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 120,
+      "target2_no": 90
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 88,
+      "target2_no": 128
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 65,
+      "target2_no": 80
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 54,
+      "target2_no": 17
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 12,
+      "target2_no": 60
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 56,
+      "target2_no": 49
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 73,
+      "target2_no": 59
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 34,
+      "target2_no": 78
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 124,
+      "target2_no": 35
+    }
+  ],
+  "114": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 106,
+      "target2_no": 79
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 98,
+      "target2_no": 104
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 74,
+      "target2_no": 96
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 55,
+      "target2_no": 20
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 16,
+      "target2_no": 31
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 2,
+      "target2_no": 45
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 117,
+      "target2_no": 30
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 67,
+      "target2_no": 62
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 57,
+      "target2_no": 77
+    }
+  ],
+  "127": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 125,
+      "target2_no": 71
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 68,
+      "target2_no": 118
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 109,
+      "target2_no": 84
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 15,
+      "target2_no": 42
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 18,
+      "target2_no": 33
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 8,
+      "target2_no": 52
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 116,
+      "target2_no": 6
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 64,
+      "target2_no": 89
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 113,
+      "target2_no": 51
+    }
+  ],
+  "122": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 92,
+      "target2_no": 75
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 115,
+      "target2_no": 66
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 101,
+      "target2_no": 105
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 23,
+      "target2_no": 3
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 22,
+      "target2_no": 39
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 4,
+      "target2_no": 10
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 41,
+      "target2_no": 100
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 87,
+      "target2_no": 36
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 103,
+      "target2_no": 11
+    }
+  ],
+  "123": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 82,
+      "target2_no": 107
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 112,
+      "target2_no": 97
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 76,
+      "target2_no": 83
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 32,
+      "target2_no": 47
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 27,
+      "target2_no": 37
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 13,
+      "target2_no": 21
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 108,
+      "target2_no": 19
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 7,
+      "target2_no": 110
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 119,
+      "target2_no": 48
+    }
+  ],
+  "99": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 94,
+      "target2_no": 69
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 121,
+      "target2_no": 111
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 93,
+      "target2_no": 81
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 25,
+      "target2_no": 44
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 5,
+      "target2_no": 29
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 58,
+      "target2_no": 46
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 14,
+      "target2_no": 95
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 91,
+      "target2_no": 9
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 85,
+      "target2_no": 53
+    }
+  ],
+  "70": [
+    {
+      "pair_type": "ingroup",
+      "target1_no": 126,
+      "target2_no": 86
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 127,
+      "target2_no": 122
+    },
+    {
+      "pair_type": "ingroup",
+      "target1_no": 102,
+      "target2_no": 114
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 26,
+      "target2_no": 24
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 1,
+      "target2_no": 40
+    },
+    {
+      "pair_type": "outgroup",
+      "target1_no": 43,
+      "target2_no": 61
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 72,
+      "target2_no": 28
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 123,
+      "target2_no": 63
+    },
+    {
+      "pair_type": "mixed",
+      "target1_no": 50,
+      "target2_no": 99
+    }
+  ]
+}
